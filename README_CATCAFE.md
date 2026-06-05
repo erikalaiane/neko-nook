@@ -99,17 +99,17 @@ neko-nook/
 **Funcionalidades (detalhado)**
 
 - Hero
-	- Foto grande, título convidativo e CTA primário `Reservar`
+  - Foto grande, título convidativo e CTA primário `Reservar`
 - Galeria / Carrossel
-	- Rolagem automática com pausa no hover, zoom suave nas imagens
+  - Rolagem automática com pausa no hover, zoom suave nas imagens
 - Menu
-	- Seção com categorias (cafés, chás, doces, petiscos), destaques e preços
+  - Seção com categorias (cafés, chás, doces, petiscos), destaques e preços
 - Reservas
-	- Formulário simples (nome, e-mail, data, hora, pessoas) com validação leve
+  - Formulário simples (nome, e-mail, data, hora, pessoas) com validação leve
 - Informações úteis
-	- Horário de funcionamento, endereço e botão para abrir no Google Maps
+  - Horário de funcionamento, endereço e botão para abrir no Google Maps
 - Depoimentos
-	- Slides com avaliações reais ou fictícias para aumentar confiança
+  - Slides com avaliações reais ou fictícias para aumentar confiança
 
 ---
 
@@ -159,4 +159,3 @@ Desenvolvido com carinho por Erika Laiane — front-end e design criativo.
 ---
 
 Se quiser, eu movo este conteúdo para o `README.md` principal ou faço um commit e PR automático.
-
